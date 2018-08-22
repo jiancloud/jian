@@ -2,7 +2,12 @@ package com.cloud.jian.core.algorithm;
 
 import java.util.Arrays;
 
-public class QuickSort {
+/**
+ * 快速排序：挖坑法
+ * @author yangjian
+ * @date 2018-08-22
+ */
+public class QuickSortByPlaceHold {
 
     public static void quickSort(int[] arr, int startIndex, int endIndex) {
         // 递归结束条件：startIndex大等于endIndex的时候
