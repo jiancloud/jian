@@ -48,6 +48,7 @@
           <element id="library" level="project" name="Maven: cglib:cglib:2.2.2" />
           <element id="library" level="project" name="Maven: asm:asm:3.3.1" />
           <element id="library" level="project" name="Maven: com.alibaba:druid:1.0.15" />
+          <element id="library" level="project" name="Maven: org.projectlombok:lombok:1.16.16" />
         </element>
       </element>
       <element id="directory" name="META-INF">
