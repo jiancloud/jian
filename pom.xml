@@ -41,7 +41,7 @@
         <jetty.version>7.6.10.v20130312</jetty.version>
         <fastjson.version>1.2.4</fastjson.version>
         <ibatisSpring.version>1.2.3</ibatisSpring.version>
-        <ibatis.version>3.3.0</ibatis.version>
+        <ibatis.version>3.5.6</ibatis.version>
         <druid.version>1.0.15</druid.version>
     </properties>
 
